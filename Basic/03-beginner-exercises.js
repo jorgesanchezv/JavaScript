@@ -19,7 +19,7 @@ let faith = true;
 let indef;
 let nulo = null;
 let simbolo = Symbol("miSimbolo");
-let bignum = BigInt(09802873489870923467298034750982398793874545);
+let bignum = BigInt(9802873489870923467298034750982398793874545);
 
 // 4. Imprime por consola el valor de todas las variables
 
@@ -56,17 +56,17 @@ bignum = BigInt(8978472398708235679698346529874397098347589729087423095);
 nombre = 96;
 number = "Jorge";
 faith = null;
-indef;
-Symbol("suSimbolo");
-nulo = BigInt(0982798759027908265782637860923859623065823);
-simbolo = bignum = true;
+indef = "Hola";
+nulo = BigInt(982798759027908265782637860923859623065823);
+simbolo = true;
+bignum = Symbol("suSimbolo");
 
 // 8. Declara constantes con valores asociados a todos los tipos de datos primitivos
 
 const myName = "Hollow";
 const myNumber = 30;
 const isGod = true;
-// const isUndef;
+const isUndef = undefined;
 const isNull = null;
 const mySymbol = Symbol("miSimbolo");
 const myBigInt =
