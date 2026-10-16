@@ -32,6 +32,6 @@ curso de JavaScript`;
 
 console.log(message);
 
+// Interpolación de valores
 let email = "willy@dev.io";
-
 console.log(`Hola, ${myName}! Tu email es ${email}.`);
